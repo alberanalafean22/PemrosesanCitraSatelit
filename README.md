@@ -1,4 +1,4 @@
-# PemrosesanCitraSatelit
+# Pemrosesan Citra Satelit
 
 Tools & Library
 
